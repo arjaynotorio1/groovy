@@ -1,0 +1,11 @@
+Hello, this is a sample text file.
+This file is used to demonstrate the search and replace functionality.
+The originalText appears multiple times in this text file.
+Feel free to add more lines with the originalText pattern to see how the script handles multiple replacements.
+Let's add originalText here again.
+And one more originalText just for good measure.
+
+
+
+
+-Arjay Notorio

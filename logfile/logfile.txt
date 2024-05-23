@@ -1,0 +1,4 @@
+Log Start Time: Thu May 23 21:32:22 PST 2024
+Modified: C:\Users\pcuser\Documents\groovyprj\sample.txt
+Pattern found at: 375
+Log End Time: Thu May 23 21:32:22 PST 2024
